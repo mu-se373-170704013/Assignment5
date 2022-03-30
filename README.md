@@ -4,3 +4,5 @@ When we click the add image button its adding new image and new name do our data
 
 I used react navigation library for navigation
 Elements that used: View, Pressable, Text, Image, ImageBackground
+
+![](https://github.com/mu-se373-170704013/Assignment5/blob/master/gif/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202022-03-30%20at%2010.50.24.gif)
